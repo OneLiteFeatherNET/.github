@@ -8,5 +8,6 @@
       "package-name": ".github",
       "changelog-path": "CHANGELOG.md"
     }
-  }
+  },
+  "bootstrap-sha": "4f8ce0380c821f3284421ba0db040afa208be2ce"
 }
